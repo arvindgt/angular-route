@@ -1,11 +1,11 @@
 
-myApp.controller('homeCtrl', function ($scope, $http) {
-    $scope.usr = {};
+myApp.controller('homeCtrl', function ($scope) {
+    $scope.message = "This is home page";
 	console.log('this is home');
 });
 
 
-myApp.controller('dashboard1', function ($scope, $http) {
-    $scope.usr = {};
-	console.log('this is home1');
+myApp.controller('page1Ctrl', function ($scope) {
+    $scope.message = "This is page 1";
+	console.log('this is page 1');
 });
