@@ -2,4 +2,5 @@
 
 Angular routing through $routeProvider
 THIS IS UPDATED
+This is new branch
 -- Make sure you have a server side environment (like http://localhost) set for it to route to different pages of html.
